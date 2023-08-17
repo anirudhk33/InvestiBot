@@ -1,4 +1,4 @@
-# Investron
+# Investrix
 Investrix is a mini-tool that automates daily stock research by summarizing news and sentiment for each stock. It utilizes the Pegasus transformer model for text summarization and the Hugging Face pipeline for sentiment analysis to provide valuable insights for informed investment decisions.
 
 ### Data Pipeline Overview
